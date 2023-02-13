@@ -9,7 +9,7 @@ print(a.lower())
 print("\n")
 # this technique to convert remove first spaces
 p = a.strip()
-print(p)
+print(p+"I'm right now")
 print("\n")
 # This technique to highlight some in console
 print(a.strip(","))

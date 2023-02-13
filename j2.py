@@ -3,6 +3,7 @@
 # This file is Base on multiple value assignment
 
 # One to many case
+# list
 tahir1 = [12, 13, 14, 15, 16]
 
 # Many to one
@@ -21,3 +22,4 @@ for i in tahir1:
 print(tahir2, tahir3, tahir4)
 # Many to many case
 print(tahir5,tahir6,tahir7)
+

@@ -11,7 +11,7 @@ Mylist1 = [12, 13, 14, 15, 16, 17]
 # print(Mylist1[4])
 
 # The list can also access through back tracing
-print(Mylist1[-4:-1])
+print(Mylist1[-6:])
 # SPECIFIC SEARCHING
 mylist2 = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(mylist2[2:5])
